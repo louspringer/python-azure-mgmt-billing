@@ -1,2 +1,4 @@
-# python-azure-mgmt-billing
-A jupyter notebook exploring the Azure Python SDK package azure-mgmt. 
+# Python azure-mgmt-billing
+A jupyter notebook exploring the Azure Python SDK package [azure-mgmt-billing](https://docs.microsoft.com/en-us/python/api/overview/azure/billing/management?view=azure-python). 
+
+This notebook explores the two available resources, invoices and periods. The azure-mgmt-billing package does note expose a method to get usage informtion, and the invoice resource only returns PDFs of invoices. 
